@@ -1,4 +1,4 @@
-<h1>Diabetes Data Analysis - UBC DSCI 100<h1>
+<h1>Diabetes Data Analysis - UBC DSCI 100</h1>
 
 <p>
   
